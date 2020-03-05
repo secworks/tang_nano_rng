@@ -16,6 +16,8 @@ The board sports a GW1N-1 FPGA device from the *Gaoyun Little Bee
 series*. The chip sports 1152 LUTs and  4 BlockRAMs for a total memory
 of 72Kbit.
 
+For more information about the board, see the [documentation provided by Sipeed](https://tangnano.sipeed.com/en/).
+
 The aim of this project and repo is to implement a high quality,
 cryptographically strong Random Number Generator (RNG) with an internal
 noise/entropy source, conditioning, mixer and feeding a CSPRNG. Via the
