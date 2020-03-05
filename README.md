@@ -7,7 +7,7 @@ Just started. Not completed. Does not work. **Do. Not. Use.**
 
 
 ## Introduction
-The [Tang Nan](https://tangnano.sipeed.com/en/) is a tiny, very cheap
+The [Tang Nano](https://tangnano.sipeed.com/en/) is a tiny, very cheap
 FPGA based development board by Sipeed.
 
 ![alt text](https://www.cnx-software.com/wp-content/uploads/2019/10/Sipeed-Tang-Nano-FPGA-Board.jpg)
